@@ -1,0 +1,17 @@
+git init - inicializa o projeto
+
+git add "arquivo.html" - adiciona um arquivo ao projeto
+
+git add . - adiciona todos os arquivos ao projeto
+
+git status - vizualiza os status do git
+
+git commit -m " comentario " - adiciona uma nova versão
+
+git remote add origin https://github.com/LeoZzzx/PrimeiroRepositorio.git - nomeia a url do seu repositorio do github
+
+git push -u origin master - envia para sua url do repositorio
+
+
+
+
